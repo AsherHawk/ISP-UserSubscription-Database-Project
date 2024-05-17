@@ -13,7 +13,7 @@ This project involves the creation of a comprehensive relational database design
 
 <h2>Environments Used: </h2>
 
-- <b>MYSQL Workbench </b> (21H2)
+- <b>MYSQL Workbench </b>
 
 <h2>Components:</h2>
 
